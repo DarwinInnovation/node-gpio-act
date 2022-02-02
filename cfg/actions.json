@@ -1,0 +1,28 @@
+{
+  "actions": {
+    "18": {
+      "type": "ext",
+      "cmd": "/home/pi/py-rfcat-cli/rfcat-tx-cmd neet lift_up"
+    },
+    "17": {
+      "type": "ext",
+      "cmd": "/home/pi/py-rfcat-cli/rfcat-tx-cmd neet lift_down"
+    },
+    "23": {
+      "type": "ext",
+      "cmd": "echo 23"
+    },    "24": {
+      "type": "ext",
+      "cmd": "echo 24"
+    },    "27": {
+      "type": "ext",
+      "cmd": "/home/pi/py-rfcat-cli/rfcat-tx-cmd neet door_unlock"
+    },    "22": {
+      "type": "ext",
+      "cmd": "echo 22"
+    },    "25": {
+      "type": "ext",
+      "cmd": "echo 25"
+    }
+  }
+}
